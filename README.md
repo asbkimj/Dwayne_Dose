@@ -2,7 +2,7 @@
 <h1> Dwayne the Rock Twitter Bot</h1>
 <strong> Description </strong>
 <p>
-Dwayne the Rock Johnson, an interational hero, seems to be lacking an rock-based pun twitter account. This project attempts to rectify that. 
+Dwayne the Rock Johnson, an interational hero, seems to be lacking an rock-based pun twitter account. This project attempts to rectify that. This project attempts to make a twitter bot that posts daily pictures of Dwayne the Rock Johnson with rock-related puns and quotes. 
 </p>
 
 <strong> Inspiration </strong>
@@ -11,16 +11,21 @@ As someone who does not have a twittter account, the idea for this project came 
 </p>
 <strong> Milestone 1 </strong>
 
-<p>Find 20 photos of Dwayne the Rock Johnson doing various things </p>
-<p>Find 20 rock-based puns/quotes/pickup lines</p>
-<p>Figure out how the twitter bot library works </p>
+<ul>
+<li>Find 20 photos of Dwayne the Rock Johnson doing various things </li>
+<li>Find 20 rock-based puns/quotes/pickup lines</li>
+<li>Figure out how the twitter bot library works </li>
+</ul>
 
 <strong> Milestone 2 </strong>
-<p>Upload photos and puns/quotes/pickup lines </p>
-<p>Overlay them</p>
-<p>Make a twitter account</p>
-
+<ul>
+<li>Upload photos and puns/quotes/pickup lines </li>
+<li>Overlay them</li>
+<li>Make a twitter account</li>
+</ul>
 <strong> Milestone 3 </strong>
-<p>? </p>
-<p>?</p>
-<p>?</p>
+<ul>
+<li>? </li>
+<li>?</li>
+<li>?</li>
+</ul>
