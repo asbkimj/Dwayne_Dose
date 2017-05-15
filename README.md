@@ -9,7 +9,7 @@ Dwayne the Rock Johnson, an interational hero, seems to be lacking an rock-based
 <p>
 As someone who does not have a twittter account, the idea for this project came from an episode of the podcast "Planet Money" in which the hosts launched a bot that trades stocks based on Trump's tweets; this was supposed to be documented on the bot's twitter page. However, since Trump hadn't tweeted about any companies since its creation the bot just tweeted bad repetitive jokes about being a bot. I found that amusing so I thought, why not make one for Dwayne the Rock Johnson? There's probably one out there already, but the world could always use one more. 
 </p>
-<strong> Milestone 1 </strong>
+<strong> Milestone 1 (May 12)</strong> 
 
 <ul>
 <li>Find 20 photos of Dwayne the Rock Johnson doing various things </li>
@@ -17,13 +17,13 @@ As someone who does not have a twittter account, the idea for this project came 
 <li>Figure out how the twitter bot library works </li>
 </ul>
 
-<strong> Milestone 2 </strong>
+<strong> Milestone 2 (May 19) </strong>
 <ul>
 <li>Upload photos and puns/quotes/pickup lines </li>
 <li>Overlay them</li>
 <li>Make a twitter account</li>
 </ul>
-<strong> Milestone 3 </strong>
+<strong> Milestone 3 (May 29)</strong>
 <ul>
 <li> Finish project? </li>
 <li> Figure it out!</li>
