@@ -1,5 +1,5 @@
 # Dwayne_Dose
-<h1> Dwayne the Rock Twitter Bot</h1>
+<h3> Dwayne the Rock Twitter Bot</h3>
 <strong> Description </strong>
 <p>
 Dwayne the Rock Johnson, an interational hero, seems to be lacking an rock-based pun twitter account. This project attempts to rectify that. This project attempts to make a twitter bot that posts daily pictures of Dwayne the Rock Johnson with rock-related puns and quotes. That's basically it. I don't think I can elaborate any more.  
