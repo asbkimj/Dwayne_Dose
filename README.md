@@ -25,7 +25,7 @@ As someone who does not have a twittter account, the idea for this project came 
 </ul>
 <strong> Milestone 3 (May 29)</strong>
 <ul>
-<li> Finish project? </li>
-<li> Figure it out!</li>
+<li> Finish project </li>
+<li> </li>
 <li>?</li>
 </ul>
